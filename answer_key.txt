@@ -1,0 +1,61 @@
+Enquiry 1:
+Name: Diya
+Budget: 50000
+Message: I am looking who can make a smooth and solid websites for my business.I would like to have talk or meet to get more details regarding this.
+Label:Hot 
+Why: They gave their budget and asking to have a call
+
+Enquiry 2:
+Name: Ravi
+Budget: 
+Message: I am going to start a ticket booking platform for people so I am looking for someone who can make an outstanding website. I need to discuss more .
+Label: Warm
+Why: We don’t whether he’ll start or not but also he need few details.
+
+
+Enquiry 3:
+Name: Aadhi
+Budget: 30000
+Message: I am just exploring web designing services who can make good website for my business.
+Label: cold
+Why: He is not in urgency and mentioned he’s just exploring
+
+
+Enquiry 4:
+Name: Sid
+Budget: 
+Message: Hi, I would like to get the details about you pricing 
+Label: Cold
+Why: Seems like he just wanted to know the pricing and haven’t mentioned he need websites for him
+
+
+Enquiry 5:
+Name: Ana
+Budget:40000
+Message: Hi,this is my budget could I get a good working website for this budget
+Label:Warm
+Why:She mentioned the budget and wanted to know whether we give a website with the mentioned budget
+
+
+Enquiry 6:
+Name: Nithin
+Budget:
+Message: Hi, just came to know how many days will you take to build a website
+Label:Cold
+Why: He’s just asking how long does it take to build a website and have not mentioned he need a website or he has a budget.
+
+Enquiry 7:
+Name: ahaan
+Budget:60000
+Message: Hi, I am currently looking for someone who can make good websites for my business I don’t have much time currently our website is crashed and we are looking for someone who don’t make these mistakes again. Can we talk ASAP
+Label: Hot
+Why: He said his existing website is crashed and need a new website with mentioning the budget 
+
+
+
+
+
+
+
+
+
